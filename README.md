@@ -3,4 +3,5 @@ My repository for some coursework and the final project for the course Real-time
 
 ## Todo
 -Create a twitter.conf file, where you can specify your twitter developer credentials
+
 -Run the docker-compose file to pull elasticsearch and kibana images
